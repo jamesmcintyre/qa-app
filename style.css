@@ -1,0 +1,43 @@
+.template {
+  display: none !important;
+}
+
+
+.card-text {
+  font-weight: 600;
+}
+
+#questionDate {
+  margin-bottom: 36px;
+  display: block;
+}
+
+.other {
+  color: grey;
+}
+
+
+#allCards {
+  background-color: #F7F7F7;
+  padding-top: 17px;
+  border-radius: 7px;
+  margin-top: 22px;
+}
+
+#topspacer {
+  height: 6vh;
+}
+
+
+#searchcontain {
+  display: none;
+}
+
+#questionTitle {
+  margin-bottom: 15px;
+}
+
+#containthelist {
+  padding: 16px;
+  margin-bottom: 24px;
+}
